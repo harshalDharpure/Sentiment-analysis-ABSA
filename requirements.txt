@@ -1,0 +1,12 @@
+torch
+transformers
+accelerate
+scikit-learn
+scipy
+numpy
+requests
+nlpaug
+sentencepiece
+blobfile
+
+
